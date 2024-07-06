@@ -1,4 +1,7 @@
-# Project README
+BACKEND CODE: https://github.com/agung-madani/bcr-backend
+
+FRONTEND CODE: https://github.com/agung-madani/bcr-frontend
+
 ---
 
 ### 1. Menerapkan Konsep ESLINT dalam Kode yang Ditulis
